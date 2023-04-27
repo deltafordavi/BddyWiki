@@ -1,6 +1,6 @@
 # Macánica Cuántica Relacional
 La Mecánica Cuántica Relacional (*Quantum Relational Mechanics*, en inglés), abreviada como **MCR** (***QRM***) es una interpretación de la mecánica cuántica. 
-La idea es de  Carlo Rovelli a finales del siglo XX. Se basa, remotamente, en la gravedad cuántica[\*][r1]
+La idea es de  Carlo Rovelli a finales del siglo XX. Se basa, remotamente, en la gravedad cuántica[\[**1**\]][r1]
 
 
 
